@@ -9,5 +9,5 @@ Training a model to recognize sentiment in text (NLP Zero to Hero - Part 3)
 mynlpLearn3 代码没调通，全连接层之间神经单元个数不会设置
 
 mynlpLearn4 也是来源于油管，又看的 github
-[链接](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb)
+[链接](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb)  
 是一个 imdb 数据集的二分类，模型是嵌入层+GRU层
